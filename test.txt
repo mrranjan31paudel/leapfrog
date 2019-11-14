@@ -4,3 +4,4 @@ Food : Nepali khana
 Place: Pokhara
 Hobby: Scketching, Hiking
 Color: Blue
+Age : 20
